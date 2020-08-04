@@ -1,2 +1,0 @@
-# calc-IMC
-calculadora IMC
